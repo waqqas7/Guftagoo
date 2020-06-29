@@ -28,3 +28,6 @@ This is a realtime chatting mobile android application developed using Java, Nod
 1. Download the apk file from the link below :
 2. Mediafire Link : http://www.mediafire.com/file/v0c3wsvyagorl74/Guftagoo.apk/file
 3. Install the apk file and enjoy Guftaggoing !
+
+This app is still in beta. Install and enjoy the features, i would to love hear any feedback from you guys
+[contact me @]: waqqas.akhter7@gmail.com
