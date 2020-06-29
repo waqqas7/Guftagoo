@@ -4,7 +4,7 @@
 
 This is a realtime chatting mobile android application developed using Java, Node.js & Firebase in Android Studio. Guftagoo is a basic yet fantastic app to connects with your friends and closed ones. Users can share text-based messages,pictures and files with your Friends. Private and Group chatting are enabled with status and profile fields.
 
-### Link - http://www.mediafire.com/file/v0c3wsvyagorl74/Guftagoo.apk/file
+### Link - http://www.mediafire.com/file/3zjsapx1gkur4e3/Guftagoo.apk/file
 
 ## 🏁 Technology Stack
 
@@ -26,7 +26,7 @@ This is a realtime chatting mobile android application developed using Java, Nod
 ## 🏃‍ Installation
 
 1. Download the apk file from the link below :
-2. Mediafire Link : http://www.mediafire.com/file/v0c3wsvyagorl74/Guftagoo.apk/file
+2. Mediafire Link : http://www.mediafire.com/file/3zjsapx1gkur4e3/Guftagoo.apk/file
 3. Install the apk file and enjoy Guftaggoing !
 
 This app is still in beta. Install and enjoy the features, i would to love hear any feedback from you guys
