@@ -1,8 +1,8 @@
 # Guftagoo
 
-![guftagoo](https://res.cloudinary.com/chiragjain/image/upload/v1592832252/freesnippingtool.com_capture_20200622175903_clslzv.png)
+![guftagoo](http://www.mediafire.com/view/q1dqte0w6fca2ie/Screenshot_20200629-194701.jpg)
 
-This is a realtime chatting application developed using React.js, Node.js & Socket.io. ChatGram is dedicated to group messaging. Users can share text-based messages and emojis with their Friends who are in the same room.
+This is a realtime chatting mobile android application developed using Java, Node.js & Firebase in Android Studio. Guftagoo is a basic yet fantastic app to connects with your friends and closed ones. Users can share text-based messages,pictures and files with your Friends. Private and Group chatting are enabled with status and profile fields.
 
 ### Link - http://www.mediafire.com/file/v0c3wsvyagorl74/Guftagoo.apk/file
 
@@ -10,13 +10,18 @@ This is a realtime chatting application developed using React.js, Node.js & Sock
 
 - [Node.js](https://nodejs.org/en/)
 - [Java](https://www.java.com/)
+- [Firebase](https://firebase.google.com/)
+- [Android Studio](https://developer.android.com/studio)
 
 ## Key Features
 
 - Send Messages
 - Receive Messages
-- Include Emojis in your messages
-- See online users in a room
+- Group and Private Messaging
+- Online and Profile feauture
+- Send and Receive files, images etc
+- Delete message for everyone, me etc feature
+- and Many more features !
 
 ## 🏃‍ Installation
 
