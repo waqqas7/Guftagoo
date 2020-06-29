@@ -30,4 +30,7 @@ This is a realtime chatting mobile android application developed using Java, Nod
 3. Install the apk file and enjoy Guftaggoing !
 
 This app is still in beta. Install and enjoy the features, i would to love hear any feedback from you guys
-[contact me @]: waqqas.akhter7@gmail.com
+
+## Contact Me @: 
+
+waqqas.akhter7@gmail.com
