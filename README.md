@@ -1,6 +1,6 @@
 # Guftagoo
 
-![guftagoo](http://www.mediafire.com/view/q1dqte0w6fca2ie/Screenshot_20200629-194701.jpg)
+![guftagoo](http://www.mediafire.com/convkey/6a24/q1dqte0w6fca2iezg.jpg)
 
 This is a realtime chatting mobile android application developed using Java, Node.js & Firebase in Android Studio. Guftagoo is a basic yet fantastic app to connects with your friends and closed ones. Users can share text-based messages,pictures and files with your Friends. Private and Group chatting are enabled with status and profile fields.
 
